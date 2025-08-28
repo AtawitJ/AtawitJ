@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AtawitJ</h1>
 <h3 align="center">Passionate Researcher & Developer | Windows/Linux Desktop, Embedded Systems, IoT & Inter-Device Communication</h3>
 
-- I’m currently working on **desktop applications (Windows/Linux), embedded systems, and IoT communication**
+- 💻 I’m currently working on **desktop applications (Windows/Linux), embedded systems, and IoT communication**
 
 - 🌱 I’m currently learning **Machine learning/AI integration**
 
