@@ -11,6 +11,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/atawit-jantaupalee-44300a381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/atawit-jantaupalee-44300a381" height="30" width="40" /></a>
 <a href="https://fb.com/atawit jantaupalee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atawit jantaupalee" height="30" width="40" /></a>
+<a href="https://orcid.org/0009-0000-0222-7709" target="_blank">
+    <img align="center" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID" height="30" width="40" />
+  </a>
 </p>
 
 
